@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/atlassian-core-4.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/atlassian-jira-rpc-plugin-4.2.1-20101129.030737-33.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/ch.qos.logback.classic-0.9.28.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/guava-base-r03.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/guava-collections-r03.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/httpclient-cache-4.2.1-atlassian-2.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jira-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jira-rest-java-client-0.2-m1.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jwt-api-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jwt-core-1.5.11-0002.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jwt-generator.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/logback-core-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/testng.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/testng-remote.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/testng-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Jyoti/MHRA/MHRA Suite/newSelJars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
